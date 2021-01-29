@@ -90,7 +90,7 @@ footer a {
   
 @media only screen and (max-width: 500px) {
     .responsive {
-      width: 90%;
+      width: 100%;
     }
   }
   
@@ -201,7 +201,7 @@ a:hover{
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
   .column1 {
-    width: 90%;
+    width: 100%;
   }
 }
 
@@ -323,13 +323,13 @@ a:hover{
 @media only screen and (max-width: 800px) {
 
  .first-column {
-      width: 90%;
+      width: 100%;
       padding-bottom: 10px;
       float: none;
   }
 
   .second-column {
-      width: 90%;
+      width: 100%;
       padding-bottom: 10px;
       float: none;
   }
@@ -339,13 +339,13 @@ a:hover{
 @media only screen and (max-width: 800px) {
 
   .column4 {
-       width: 90%;
+       width: 100%;
        padding-bottom: 10px;
        float: none;
    }
  
    .column3 {
-       width: 90%;
+       width: 100%;
        padding-bottom: 10px;
        float: none;
    }
